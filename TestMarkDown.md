@@ -6,9 +6,10 @@ Unordered list
 * list c
 
 Ordered List
-1) Apple
-2) Pear
+1. Apple 
+2. Pear
 
 ### Table Heading
 
 *A* is the _first_ letter in the alphabet.
+
